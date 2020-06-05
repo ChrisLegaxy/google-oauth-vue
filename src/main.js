@@ -2,7 +2,6 @@ import Vue from "vue";
 import App from "./App.vue";
 import vuetify from "./plugins/vuetify";
 import VueHead from "vue-head";
-// import google from "./plugins/google";
 
 import { LoaderPlugin } from "vue-google-login";
 

@@ -46,6 +46,7 @@
       </v-expand-transition>
     </v-card>
     <div class="my-10"></div>
+
     <GoogleLogin
       :params="params"
       :renderParams="renderParams"
